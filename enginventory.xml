@@ -473,6 +473,24 @@
 				<Texture name="EngInventory_frame_Item_158_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 				<Texture name="EngInventory_frame_Item_159_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 				<Texture name="EngInventory_frame_Item_160_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+				<Texture name="EngInventory_frame_Item_161_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_162_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_163_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_164_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_165_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_166_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_167_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_168_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_169_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_170_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_171_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_172_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_173_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_174_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_175_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+ 				<Texture name="EngInventory_frame_Item_176_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
+
+
 				
 				<Texture name="EngInventory_frame_SlotTarget_1_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
 				<Texture name="EngInventory_frame_SlotTarget_2_bkgr" inherits="EngInventory_ButtonBackgroundTemplate"/>
@@ -913,6 +931,22 @@
 			<Button name="EngInventory_frame_Item_158" inherits="EngInventory_ItemButtonTemplate"/>
 			<Button name="EngInventory_frame_Item_159" inherits="EngInventory_ItemButtonTemplate"/>
 			<Button name="EngInventory_frame_Item_160" inherits="EngInventory_ItemButtonTemplate"/>
+			<Button name="EngInventory_frame_Item_161" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_162" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_163" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_164" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_165" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_166" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_167" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_168" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_169" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_170" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_171" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_172" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_173" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_174" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_175" inherits="EngInventory_ItemButtonTemplate"/>
+ 			<Button name="EngInventory_frame_Item_176" inherits="EngInventory_ItemButtonTemplate"/>
 
 			<Frame name="$parent_RightClickMenu" inherits="UIDropDownMenuTemplate" id="1" hidden="true">
 				<Scripts>
